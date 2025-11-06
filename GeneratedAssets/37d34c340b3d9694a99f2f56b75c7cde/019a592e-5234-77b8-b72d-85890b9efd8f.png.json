@@ -1,0 +1,29 @@
+{
+    "asset": "37d34c340b3d9694a99f2f56b75c7cde",
+    "fileName": "019a592e-5234-77b8-b72d-85890b9efd8f.png",
+    "prompt": "Generate a cartoon-style icon compound feed  with a clean, minimalistic design. Should have a simple, friendly, and modern appearance, suitable for a mobile game or app interface. Centered composition, no background clutter.",
+    "negativePrompt": "",
+    "model": "226847dc-7ccc-49a8-afdd-bd76ab1d8391",
+    "modelName": "Game Icons 3D (Flux)",
+    "customSeed": -1,
+    "w3CTraceId": "ca87bda60e6361b01b71f9d6075177f0",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "7fe62b346b672f0439b8ba6481f8e08c"
+            }
+        ]
+    },
+    "upscaleFactor": 0
+}

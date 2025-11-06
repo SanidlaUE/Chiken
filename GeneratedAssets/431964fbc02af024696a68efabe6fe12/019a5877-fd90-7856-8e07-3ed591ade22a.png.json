@@ -1,0 +1,20 @@
+{
+    "asset": "431964fbc02af024696a68efabe6fe12",
+    "fileName": "019a5877-fd90-7856-8e07-3ed591ade22a.png",
+    "prompt": "Generate a minimalist, monochromatic background with soft gradients and smooth shapes. The design should feel modern and elegant, with subtle depth and no distracting details. Use a single dominant hue (e.g., blue, gray, or green) with tonal variations for contrast. Ideal for a UI or game menu background in a clean, professional style",
+    "negativePrompt": "",
+    "model": "226847dc-7ccc-49a8-afdd-bd76ab1d8391",
+    "modelName": "Game Icons 3D (Flux)",
+    "customSeed": -1,
+    "w3CTraceId": "331015537b0f81a0de82c216c9d7d130",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

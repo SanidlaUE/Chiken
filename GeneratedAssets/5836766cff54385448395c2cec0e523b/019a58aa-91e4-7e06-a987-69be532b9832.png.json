@@ -1,0 +1,20 @@
+{
+    "asset": "5836766cff54385448395c2cec0e523b",
+    "fileName": "019a58aa-91e4-7e06-a987-69be532b9832.png",
+    "prompt": "A single realistic coin on a neutral background, no currency symbols or dollar signs, metallic texture with subtle reflections, simple and minimalistic design, centered composition, soft lighting, high-quality rendering",
+    "negativePrompt": "",
+    "model": "226847dc-7ccc-49a8-afdd-bd76ab1d8391",
+    "modelName": "Game Icons 3D (Flux)",
+    "customSeed": -1,
+    "w3CTraceId": "cabf4fdae7370abdfd6ddfa33010e8a0",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}
