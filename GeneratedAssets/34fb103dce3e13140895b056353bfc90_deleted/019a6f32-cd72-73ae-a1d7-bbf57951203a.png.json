@@ -1,0 +1,20 @@
+{
+    "asset": "34fb103dce3e13140895b056353bfc90",
+    "fileName": "019a6f32-cd72-73ae-a1d7-bbf57951203a.png",
+    "prompt": "cute cartoon progress bar",
+    "negativePrompt": "",
+    "model": "226847dc-7ccc-49a8-afdd-bd76ab1d8391",
+    "modelName": "Game Icons 3D (Flux)",
+    "customSeed": -1,
+    "w3CTraceId": "227c6c036d0af34ac676ac093c35fbe6",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

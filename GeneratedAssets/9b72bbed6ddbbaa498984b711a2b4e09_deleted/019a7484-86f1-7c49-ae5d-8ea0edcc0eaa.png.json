@@ -1,0 +1,20 @@
+{
+    "asset": "9b72bbed6ddbbaa498984b711a2b4e09",
+    "fileName": "019a7484-86f1-7c49-ae5d-8ea0edcc0eaa.png",
+    "prompt": "Generate cartoon selected frame",
+    "negativePrompt": "",
+    "model": "226847dc-7ccc-49a8-afdd-bd76ab1d8391",
+    "modelName": "Game Icons 3D (Flux)",
+    "customSeed": -1,
+    "w3CTraceId": "4598b824ff003a45f4b2b4a09ef22f34",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

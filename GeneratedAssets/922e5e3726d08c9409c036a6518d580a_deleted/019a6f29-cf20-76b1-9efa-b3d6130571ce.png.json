@@ -1,0 +1,20 @@
+{
+    "asset": "922e5e3726d08c9409c036a6518d580a",
+    "fileName": "019a6f29-cf20-76b1-9efa-b3d6130571ce.png",
+    "prompt": "small cute cartoon toy for child",
+    "negativePrompt": "",
+    "model": "226847dc-7ccc-49a8-afdd-bd76ab1d8391",
+    "modelName": "Game Icons 3D (Flux)",
+    "customSeed": -1,
+    "w3CTraceId": "39262e488744111bf81ae8473246a3e5",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

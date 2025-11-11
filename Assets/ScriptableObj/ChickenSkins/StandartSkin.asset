@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 412fd839bffb0ba478db84aecf45f05e, type: 3}
+  m_Name: StandartSkin
+  m_EditorClassIdentifier: Assembly-CSharp::SkinType
+  id: 0
+  price: 0
+  sprite: {fileID: -559891767521609505, guid: 3ee2d3c9591b14543a8f2f854ace15e7, type: 3}
+  animatorController: {fileID: 9100000, guid: 6f85a3969f06e494ab1ca24602dbc35c, type: 2}
+  isPurchased: 0
+  isEquipped: 0

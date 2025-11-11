@@ -7,3 +7,4 @@ public class WashclothType : ScriptableObject
     public int price;
     public Sprite sprite;
 }
+

@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: c25f5b8228ac2e44780f33a7390fcf4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2711991820096192002
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_0
+  - first:
+      213: 4159939085583711794
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_1
+  - first:
+      213: 7450375203986732571
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_2
+  - first:
+      213: -5052378680918285576
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_3
+  - first:
+      213: 6702822353075220913
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_4
+  - first:
+      213: 474194995364906912
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_5
+  - first:
+      213: 5246690701239352958
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_6
+  - first:
+      213: 411991647442136279
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_7
+  - first:
+      213: -3951974520410693976
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_8
+  - first:
+      213: 1285987276895080983
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_9
+  - first:
+      213: -5231176752321400180
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_10
+  - first:
+      213: -4732893173467325746
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_11
+  - first:
+      213: 6426943532872063141
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_12
+  - first:
+      213: -3450325534455064723
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_13
+  - first:
+      213: 5745626941740314236
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_14
+  - first:
+      213: 5252268145406945199
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_15
+  - first:
+      213: 1146637958352914666
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_16
+  - first:
+      213: 2262631776727403057
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_17
+  - first:
+      213: 5228278966976225854
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_18
+  - first:
+      213: 8775383819359687408
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_19
+  - first:
+      213: 2939018945428502058
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_20
+  - first:
+      213: -5820387312154869250
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_21
+  - first:
+      213: 5724493097050814590
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_22
+  - first:
+      213: 3114638087506336746
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_23
+  - first:
+      213: -3536368986629873371
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_24
+  - first:
+      213: -3497333963251810091
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_25
+  - first:
+      213: 6806755991371672906
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_26
+  - first:
+      213: 3034961534947354496
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_27
+  - first:
+      213: 9054058913090120493
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_28
+  - first:
+      213: -7319494449117819000
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_29
+  - first:
+      213: 6690054490434546653
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_30
+  - first:
+      213: -5206321045216248783
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_31
+  - first:
+      213: -1223774393181291541
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_32
+  - first:
+      213: 9279097099620710
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_33
+  - first:
+      213: 587173683048236195
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_34
+  - first:
+      213: 6034602207703065750
+    second: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2531
+        width: 404
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1c661fec11d5ad0800000000000000
+      internalID: -2711991820096192002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_1
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2531
+        width: 403
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23efa7bde821bb930800000000000000
+      internalID: 4159939085583711794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_2
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 2531
+        width: 403
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16f10536cc056760800000000000000
+      internalID: 7450375203986732571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_3
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 2531
+        width: 403
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2eb1dbb5852e9b0800000000000000
+      internalID: -5052378680918285576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_4
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 2531
+        width: 404
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1b893ca65350d50800000000000000
+      internalID: 6702822353075220913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_5
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 2531
+        width: 404
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a74efcf5dda49600800000000000000
+      internalID: 474194995364906912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2025
+        width: 405
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e77b5056dffc840800000000000000
+      internalID: 5246690701239352958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2025
+        width: 407
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc67347830b7b500800000000000000
+      internalID: 411991647442136279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_8
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 2025
+        width: 406
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae9685bc14c729c0800000000000000
+      internalID: -3951974520410693976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_9
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 2025
+        width: 406
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712d0096d9eb8d110800000000000000
+      internalID: 1285987276895080983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_10
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 2025
+        width: 404
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82f990b5702767b0800000000000000
+      internalID: -5231176752321400180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_11
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 2025
+        width: 404
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecadb931cb2615eb0800000000000000
+      internalID: -4732893173467325746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1519
+        width: 403
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8555c7717113950800000000000000
+      internalID: 6426943532872063141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_13
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1519
+        width: 405
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67985ff43bfd10d0800000000000000
+      internalID: -3450325534455064723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_14
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1519
+        width: 404
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e685a03419cbf40800000000000000
+      internalID: 5745626941740314236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_15
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1519
+        width: 404
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7a410fc0ec3e840800000000000000
+      internalID: 5252268145406945199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_16
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1519
+        width: 406
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8ca91e52da9ef00800000000000000
+      internalID: 1146637958352914666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_17
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1519
+        width: 406
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a095dec9b766f10800000000000000
+      internalID: 2262631776727403057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1013
+        width: 404
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32a34515049e8840800000000000000
+      internalID: 5228278966976225854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_19
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1013
+        width: 403
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f215a8f61d68c970800000000000000
+      internalID: 8775383819359687408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_20
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1013
+        width: 403
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26b866c82e79c820800000000000000
+      internalID: 2939018945428502058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_21
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1013
+        width: 403
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef181dbc394d93fa0800000000000000
+      internalID: -5820387312154869250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_22
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1013
+        width: 403
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78b3e0642c717f40800000000000000
+      internalID: 5724493097050814590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_23
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 1013
+        width: 404
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb97b9a6da693b20800000000000000
+      internalID: 3114638087506336746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 507
+        width: 405
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521e735a42b4ceec0800000000000000
+      internalID: -3536368986629873371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_25
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 507
+        width: 405
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d087734a49f67fc0800000000000000
+      internalID: -3497333963251810091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_26
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 507
+        width: 405
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d687aa284767e50800000000000000
+      internalID: 6806755991371672906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_27
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 507
+        width: 404
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087e285af695e1a20800000000000000
+      internalID: 3034961534947354496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_28
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 507
+        width: 403
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b223a6c9a76ad70800000000000000
+      internalID: 9054058913090120493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_29
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 507
+        width: 404
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f83e0349eeb6a90800000000000000
+      internalID: -7319494449117819000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1
+        width: 404
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbab561d19d7dc50800000000000000
+      internalID: 6690054490434546653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_31
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1
+        width: 405
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cbe39f79e6fb7b0800000000000000
+      internalID: -5206321045216248783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_32
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1
+        width: 406
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebb5395ca7440fe0800000000000000
+      internalID: -1223774393181291541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_33
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1
+        width: 406
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66195762a47f02000800000000000000
+      internalID: 9279097099620710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_34
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1
+        width: 406
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a44c8f8a5f062800800000000000000
+      internalID: 587173683048236195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_35
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 1
+        width: 405
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694ede63cb63fb350800000000000000
+      internalID: 6034602207703065750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_0: -2711991820096192002
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_1: 4159939085583711794
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_10: -5231176752321400180
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_11: -4732893173467325746
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_12: 6426943532872063141
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_13: -3450325534455064723
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_14: 5745626941740314236
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_15: 5252268145406945199
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_16: 1146637958352914666
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_17: 2262631776727403057
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_18: 5228278966976225854
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_19: 8775383819359687408
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_2: 7450375203986732571
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_20: 2939018945428502058
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_21: -5820387312154869250
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_22: 5724493097050814590
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_23: 3114638087506336746
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_24: -3536368986629873371
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_25: -3497333963251810091
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_26: 6806755991371672906
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_27: 3034961534947354496
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_28: 9054058913090120493
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_29: -7319494449117819000
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_3: -5052378680918285576
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_30: 6690054490434546653
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_31: -5206321045216248783
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_32: -1223774393181291541
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_33: 9279097099620710
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_34: 587173683048236195
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_35: 6034602207703065750
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_4: 6702822353075220913
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_5: 474194995364906912
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_6: 5246690701239352958
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_7: 411991647442136279
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_8: -3951974520410693976
+      Change-the-chick-s-pose-to-a-low-crouch-knees-deep-max-px-36_9: 1285987276895080983
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,13 +1,10 @@
-using System;
 using System.Collections;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
 public class DragobleManager : MonoBehaviour
 {
-    public FeedType feedType;
+    public FoodType feedType;
     public ToyType toyType;
     public WashclothType washclothType;
     public GameObject dragObj;
@@ -22,7 +19,7 @@ public class DragobleManager : MonoBehaviour
         {
             case ItemType.food:
             {
-                feedType = dragobleItem.feedType;
+                feedType = dragobleItem.foodType;
                 break;
             }
             case ItemType.toy:
@@ -55,11 +52,4 @@ public class DragobleManager : MonoBehaviour
         yield return new WaitForSeconds(0.1f);
         dragObj.SetActive(false);
     }
-}
-
-public enum ItemType
-{
-    food,
-    toy,
-    washcloth
 }

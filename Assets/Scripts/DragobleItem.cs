@@ -1,12 +1,11 @@
 using System;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
 public class DragobleItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
     public ItemType itemType;
-    public FeedType feedType;
+    public FoodType foodType;
     public ToyType toyType;
     public WashclothType washclothType;
     public static event Action<DragobleItem> OnDrag;

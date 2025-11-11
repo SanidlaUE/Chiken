@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 76ca473943b581c4189eae134bf8b66f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2816126474735409098
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_0
+  - first:
+      213: 6771610693900868499
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_1
+  - first:
+      213: -7712716133036428393
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_2
+  - first:
+      213: -5844091173541364955
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_3
+  - first:
+      213: 8487727699666582259
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_4
+  - first:
+      213: 389273317783705169
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_5
+  - first:
+      213: -5018404453959563307
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_6
+  - first:
+      213: -2873963896618761544
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_7
+  - first:
+      213: -1544027980108896870
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_8
+  - first:
+      213: 5459982215027676352
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_9
+  - first:
+      213: -847021643011389130
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_10
+  - first:
+      213: -1176143671490788476
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_11
+  - first:
+      213: 4400488173363883787
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_12
+  - first:
+      213: -3871713476906296667
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_13
+  - first:
+      213: 8052875450319971015
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_14
+  - first:
+      213: -6763246302928305433
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_15
+  - first:
+      213: -8961788100813985457
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_16
+  - first:
+      213: -2048075029586217967
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_17
+  - first:
+      213: -886131813652165630
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_18
+  - first:
+      213: -6813905652506267755
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_19
+  - first:
+      213: 7064988434462125500
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_20
+  - first:
+      213: 2439697395126894342
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_21
+  - first:
+      213: 3337346057155029342
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_22
+  - first:
+      213: -7712853164775873318
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_23
+  - first:
+      213: 3910602389268620819
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_24
+  - first:
+      213: 5340094649994407503
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_25
+  - first:
+      213: -3223456762002160409
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_26
+  - first:
+      213: 1007379808640846992
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_27
+  - first:
+      213: -7710171939382678964
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_28
+  - first:
+      213: -5312555684054974358
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_29
+  - first:
+      213: -5892125331094481694
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_30
+  - first:
+      213: -2591145349733484592
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_31
+  - first:
+      213: -2143169138297210039
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_32
+  - first:
+      213: -2543694903201950993
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_33
+  - first:
+      213: 6732539583274060436
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_34
+  - first:
+      213: 6599529472227666461
+    second: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2413
+        width: 346
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac75d29bb14e41720800000000000000
+      internalID: 2816126474735409098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_1
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2412
+        width: 334
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b923f6c0899fd50800000000000000
+      internalID: 6771610693900868499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_2
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 2411
+        width: 328
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79370fc6a8de6f490800000000000000
+      internalID: -7712716133036428393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_3
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2411
+        width: 343
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b321e7a0e95eea0800000000000000
+      internalID: -5844091173541364955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_4
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 2412
+        width: 344
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fabed87f577ac570800000000000000
+      internalID: 8487727699666582259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_5
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 2412
+        width: 347
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1561903250af66500800000000000000
+      internalID: 389273317783705169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1932
+        width: 354
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7808edcbb0b5ab0800000000000000
+      internalID: -5018404453959563307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1933
+        width: 359
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2cdbc1011ad18d0800000000000000
+      internalID: -2873963896618761544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_8
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1934
+        width: 366
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9568529bb2829ae0800000000000000
+      internalID: -1544027980108896870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_9
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1935
+        width: 369
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4dca675e0c5cb40800000000000000
+      internalID: 5459982215027676352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_10
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1936
+        width: 372
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6390d3bad46ce34f0800000000000000
+      internalID: -847021643011389130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_11
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1939
+        width: 375
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483c7ffef8f7dafe0800000000000000
+      internalID: -1176143671490788476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1460
+        width: 375
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f69abcdaca11d30800000000000000
+      internalID: 4400488173363883787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_13
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1463
+        width: 371
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa58e02b19e44ac0800000000000000
+      internalID: -3871713476906296667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_14
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1465
+        width: 366
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c229cc5e8f81cf60800000000000000
+      internalID: 8052875450319971015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_15
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1466
+        width: 369
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e20c79125f1422a0800000000000000
+      internalID: -6763246302928305433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_16
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1468
+        width: 368
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49e8a2343551a380800000000000000
+      internalID: -8961788100813985457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_17
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 1469
+        width: 363
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1147a2c9c96c393e0800000000000000
+      internalID: -2048075029586217967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 993
+        width: 370
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c07177fc3d3b3f0800000000000000
+      internalID: -886131813652165630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_19
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 994
+        width: 380
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f665129e42071a0800000000000000
+      internalID: -6813905652506267755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_20
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 989
+        width: 398
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdab5a9c81eb0260800000000000000
+      internalID: 7064988434462125500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_21
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 984
+        width: 402
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ffbf3dadb8bd120800000000000000
+      internalID: 2439697395126894342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_22
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 972
+        width: 385
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59a6459e82a05e20800000000000000
+      internalID: 3337346057155029342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_23
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 969
+        width: 372
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad469cc39e076f490800000000000000
+      internalID: -7712853164775873318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 484
+        width: 364
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316662e5720454630800000000000000
+      internalID: 3910602389268620819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_25
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 481
+        width: 370
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e61e78ac3db1a40800000000000000
+      internalID: 5340094649994407503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_26
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 481
+        width: 382
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4c700572bf343d0800000000000000
+      internalID: -3223456762002160409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_27
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 482
+        width: 393
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c40ff399eeafd00800000000000000
+      internalID: 1007379808640846992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_28
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 489
+        width: 376
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a29eba877fff490800000000000000
+      internalID: -7710171939382678964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_29
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 507
+        width: 353
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60cb62a0c20646b0800000000000000
+      internalID: -5312555684054974358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 26
+        width: 349
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4580caa37fa3ea0800000000000000
+      internalID: -5892125331094481694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_31
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 23
+        width: 368
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7fabb68076a0cd0800000000000000
+      internalID: -2591145349733484592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_32
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 22
+        width: 375
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bf632160fe142e0800000000000000
+      internalID: -2143169138297210039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_33
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 22
+        width: 389
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe21dad66faf2bcd0800000000000000
+      internalID: -2543694903201950993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_34
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 21
+        width: 402
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a8e499419ce6d50800000000000000
+      internalID: 6732539583274060436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_35
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 21
+        width: 408
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ae9d4d61d369b50800000000000000
+      internalID: 6599529472227666461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_0: 2816126474735409098
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_1: 6771610693900868499
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_10: -847021643011389130
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_11: -1176143671490788476
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_12: 4400488173363883787
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_13: -3871713476906296667
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_14: 8052875450319971015
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_15: -6763246302928305433
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_16: -8961788100813985457
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_17: -2048075029586217967
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_18: -886131813652165630
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_19: -6813905652506267755
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_2: -7712716133036428393
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_20: 7064988434462125500
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_21: 2439697395126894342
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_22: 3337346057155029342
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_23: -7712853164775873318
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_24: 3910602389268620819
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_25: 5340094649994407503
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_26: -3223456762002160409
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_27: 1007379808640846992
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_28: -7710171939382678964
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_29: -5312555684054974358
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_3: -5844091173541364955
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_30: -5892125331094481694
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_31: -2591145349733484592
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_32: -2143169138297210039
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_33: -2543694903201950993
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_34: 6732539583274060436
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_35: 6599529472227666461
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_4: 8487727699666582259
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_5: 389273317783705169
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_6: -5018404453959563307
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_7: -2873963896618761544
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_8: -1544027980108896870
+      Render-the-subject-mid-hover-floating-above-the-gr-max-px-36_9: 5459982215027676352
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

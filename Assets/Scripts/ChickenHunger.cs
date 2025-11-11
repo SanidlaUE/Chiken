@@ -8,7 +8,7 @@ public class ChickenHunger : MonoBehaviour
     public static event Action OnChickenNotHunger;
     public MessageBox dialogBox;
 
-    public void Feed(FeedType type)
+    public void Feed(FoodType type)
     {
         if (hunger >= maxHunger)
         {
