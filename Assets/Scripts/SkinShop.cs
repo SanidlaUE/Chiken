@@ -1,15 +1,19 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class SkinShop : MonoBehaviour
 {
-    [Header("UI References")] public Button getButton;
+    [Header("UI References")] 
+    public Button getButton;
     public Button selectButton;
+    public Button backButton;
     public TMP_Text priceText;
     public TMP_Text moneyText;
 
-    [Header("Skin Panels")] public SkinPanel[] skinPanels;
+    [Header("Skin Panels")] 
+    public SkinPanel[] skinPanels;
 
     public SkinPanel selectedSkin;
 
@@ -23,18 +27,29 @@ public class SkinShop : MonoBehaviour
 
         getButton.onClick.AddListener(OnGetButtonClick);
         selectButton.onClick.AddListener(OnSelectButtonClick);
+        backButton.onClick.AddListener(OnBackButtonClick);
 
         foreach (var panel in skinPanels)
         {
             panel.Initialize(this);
         }
+        
+        Money.Instance.OnMoneyChanged += OnMoneyChanged;
+        
         UpdateUI();
     }
+
+    private void OnMoneyChanged(int newMoney)
+    {
+        UpdateUI();
+    }
+
     public void OnSkinPanelSelected(SkinPanel skinPanel)
     {
         selectedSkin = skinPanel;
         UpdateUI();
     }
+
     private void OnGetButtonClick()
     {
         if (selectedSkin != null)
@@ -43,6 +58,7 @@ public class SkinShop : MonoBehaviour
             UpdateUI();
         }
     }
+
     private void OnSelectButtonClick()
     {
         if (selectedSkin != null)
@@ -51,6 +67,13 @@ public class SkinShop : MonoBehaviour
             UpdateUI();
         }
     }
+
+    private void OnBackButtonClick()
+    {
+        PlayerPrefs.Save();
+        SceneManager.LoadScene("MainMenu");
+    }
+    
     private void UpdateUI()
     {
         if (selectedSkin != null)
@@ -58,13 +81,12 @@ public class SkinShop : MonoBehaviour
             bool isGet = selectedSkin.IsGet;
             bool isEquipped = selectedSkin.IsEquipped;
 
-
             getButton.gameObject.SetActive(!isGet);
             selectButton.gameObject.SetActive(isGet && !isEquipped);
 
             priceText.text = selectedSkin.price.ToString();
 
-            int currentMoney = PlayerPrefs.GetInt("Money", 0);
+            int currentMoney = Money.Instance.GetCurrentMoney();
             getButton.interactable = currentMoney >= selectedSkin.price;
         }
         else
@@ -72,11 +94,20 @@ public class SkinShop : MonoBehaviour
             getButton.gameObject.SetActive(false);
             selectButton.gameObject.SetActive(false);
         }
-        moneyText.text = PlayerPrefs.GetInt("Money", 0).ToString();
+        
+        moneyText.text = Money.Instance.GetCurrentMoney().ToString();
         
         foreach (var panel in skinPanels)
         {
             panel.UpdateVisual();
+        }
+    }
+
+    private void OnDestroy()
+    {
+        if (Money.Instance != null)
+        {
+            Money.Instance.OnMoneyChanged -= OnMoneyChanged;
         }
     }
 
@@ -93,22 +124,18 @@ public class SkinShop : MonoBehaviour
         PlayerPrefs.SetInt("skin1_equip", 1);
         UpdateUI();
     }
-
-    [ContextMenu("Add 1000 Money")]
-    public void AddTestMoney()
-    {
-        PlayerPrefs.SetInt("Money", PlayerPrefs.GetInt("Money", 0) + 1000);
-        UpdateUI();
-    }
 }
+
 [System.Serializable]
 public class SkinPanel
 {
-    [Header("Skin Settings")] public string skinName;
+    [Header("Skin Settings")] 
+    public string skinName;
     public int skinNum;
     public int price;
 
-    [Header("UI References")] public Button panelButton;
+    [Header("UI References")] 
+    public Button panelButton;
     public Image skinImage;
     public GameObject selectedFrame;
     public GameObject equippedIndicator;
@@ -123,32 +150,30 @@ public class SkinPanel
         _skinShop = shop;
         panelButton.onClick.AddListener(OnPanelClick);
     }
+
     private void OnPanelClick()
     {
         _skinShop.OnSkinPanelSelected(this);
     }
+
     public void UpdateVisual()
     {
         if (selectedFrame != null)
             selectedFrame.SetActive(_skinShop.selectedSkin == this);
 
-
         if (equippedIndicator != null)
             equippedIndicator.SetActive(IsEquipped);
     }
+
     public void GetSkin()
     {
-        int currentMoney = PlayerPrefs.GetInt("Money", 0);
-
-        if (currentMoney >= price && !IsGet)
+        if (Money.Instance.SpendMoney(price) && !IsGet)
         {
-            PlayerPrefs.SetInt("Money", currentMoney - price);
             PlayerPrefs.SetInt(skinName + "_get", 1);
-
-
             SelectSkin();
         }
     }
+
     public void SelectSkin()
     {
         if (IsGet)
@@ -157,7 +182,6 @@ public class SkinPanel
             {
                 PlayerPrefs.SetInt(panel.skinName + "_equip", 0);
             }
-
 
             PlayerPrefs.SetInt(skinName + "_equip", 1);
             PlayerPrefs.SetInt("skinNum", skinNum);

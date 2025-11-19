@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f12b9bf4f7faf147bdbc0be8eb02237, type: 3}
+  m_Name: Toy1
+  m_EditorClassIdentifier: Assembly-CSharp::ItemBeh
+  id: 3
+  itemImage: {fileID: -69228392967884597, guid: 180ea92360ab5cf43b24e5ff7cfb6911, type: 3}
+  price: 0
+  itemValue: 10
+  consumableType: 1

@@ -1,0 +1,20 @@
+{
+    "asset": "3bdcf786fc5e7b34db267f62ddc98697",
+    "fileName": "019a7c72-7177-78c8-bb88-d4fe4ef25da8.png",
+    "prompt": "Small cute cartoon doll",
+    "negativePrompt": "",
+    "model": "226847dc-7ccc-49a8-afdd-bd76ab1d8391",
+    "modelName": "Game Icons 3D (Flux)",
+    "customSeed": -1,
+    "w3CTraceId": "645ce8309241315e22f939b3a636e9cd",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

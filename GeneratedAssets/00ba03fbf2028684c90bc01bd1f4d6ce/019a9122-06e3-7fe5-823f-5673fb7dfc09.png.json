@@ -1,0 +1,20 @@
+{
+    "asset": "00ba03fbf2028684c90bc01bd1f4d6ce",
+    "fileName": "019a9122-06e3-7fe5-823f-5673fb7dfc09.png",
+    "prompt": "Create a cute cartoon-style game icon featuring a small chicken. Use bright colors, soft rounded shapes, and a simple minimalistic design. The chicken should be centered, expressive, and easy to read at small sizes. Add a clean, flat background with subtle shading. Style should be playful, mobile-game friendly, and visually appealing.",
+    "negativePrompt": "",
+    "model": "226847dc-7ccc-49a8-afdd-bd76ab1d8391",
+    "modelName": "Game Icons 3D (Flux)",
+    "customSeed": -1,
+    "w3CTraceId": "373efe035eaf263bbee034c36ed75b78",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}
